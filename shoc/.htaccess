@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^id/(.*)$ uri.php
+RewriteRule ^doc/(.*)$ uri.php
+RewriteRule ^api/(.*)$ api.php

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>apiStak</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.dltk.core.scriptbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.php.core.PHPNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>pdlib</name>
+			<type>2</type>
+			<location>/Applications/MAMP/htdocs/pdlib</location>
+		</link>
+	</linkedResources>
+</projectDescription>

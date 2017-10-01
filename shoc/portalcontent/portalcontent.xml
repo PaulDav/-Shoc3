@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PortalContent xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+	<Title>Modeller</Title>
+
+	<Devices>
+		<Device Type="Browser" />
+	</Devices>
+
+
+	<Skin>
+		<Content />
+	</Skin>
+
+	<ContentPages>
+
+		<Page Content="Logo">
+			<HtmlContent>
+				<![CDATA[
+					<a href='http://www.istanduk.org'><img src="images/logo/istanduk.jpg" alt="logo"/></a>
+				]]>
+			</HtmlContent>
+		</Page>
+
+		<Page Content="Home">
+			<HtmlContent>
+				<![CDATA[
+					<h2>Welcome to the SHOC</h2>
+					<p>SHOC puts data into Boxes using a data model.</p>
+				]]>
+			</HtmlContent>
+		</Page>
+
+	</ContentPages>
+
+	<Glossary>
+		<Subject>
+			<Term>Model</Term>
+			<Definition>A model.</Definition>
+			<Notes>
+				<HtmlContent>
+					Noting the definition from xxx
+				</HtmlContent>
+			</Notes>
+			<URL></URL>
+		</Subject>
+	</Glossary>
+
+
+</PortalContent>
